@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Farukhossain5
+- 👋 Hi, I’m @Muhammad Omar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning front end Web development
 - 💞️ I’m looking to collaborate on ...
